@@ -1,0 +1,8 @@
+crazypeople.me/
+/learning
+/projects
+/resources
+/about
+/team
+/contacts
+/updates
