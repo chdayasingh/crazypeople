@@ -1,4 +1,3 @@
-crazypeople.me/
 /learning
 /projects
 /resources
@@ -6,3 +5,4 @@ crazypeople.me/
 /team
 /contacts
 /updates
+/enjoy  or /fun
